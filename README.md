@@ -1,4 +1,4 @@
-# 📘 Semester 1 – Medieninformatik
+# 📘 Semester 2 – Medieninformatik
 
 Willkommen im ersten Semester meines Medieninformatik-Studiums 🎓  
 Hier sammle ich alle Aufgaben, Projekte und Notizen aus den einzelnen Modulen.
