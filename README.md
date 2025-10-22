@@ -25,3 +25,7 @@ Das Sudoku-Spiel bietet:
 👉 [Zum Sudoku-Repository](https://github.com/dana-lng/Sodoku)
 
 ---
+
+## 🧭 Hinweise
+Dieses Semester diente als Einstieg in die Informatik-Grundlagen.  
+Das Sudoku-Projekt war mein erstes vollständiges C-Programm.
