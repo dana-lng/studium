@@ -1,4 +1,4 @@
-# 📘 Semester 2 – Medieninformatik
+# 📘 Semester 3 – Medieninformatik
 
-Willkommen im zweiten Semester meines Medieninformatik-Studiums 🎓  
+Willkommen im dritten Semester meines Medieninformatik-Studiums 🎓  
 Hier sammle ich alle Aufgaben, Projekte und Notizen aus den einzelnen Modulen.
