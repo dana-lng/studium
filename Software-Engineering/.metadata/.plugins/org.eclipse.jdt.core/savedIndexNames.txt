@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+D:\Studium\WiSe_25_26\Software-Engineering\Praktikum\.metadata\.plugins\org.eclipse.jdt.core
+509127310.index
+4205602535.index
+192454480.index
+2834951549.index
+1060259226.index
+1865797976.index

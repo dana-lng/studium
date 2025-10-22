@@ -1,0 +1,10 @@
+package secondProject;
+
+import firstProject.MyApplication;
+
+public class MySecondApplication {
+	public static void main(String[] args)
+	{
+		MyApplication.main(new String[] {"Hallo", "test"});
+	}
+}
