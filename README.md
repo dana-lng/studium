@@ -13,3 +13,21 @@ Das beinhaltet z. B. Sprach-, Gesten- oder Blickinteraktionen zwischen Mensch un
 
 📎 **Projekt**  
 👉 [Zum Repository „Multimodale-Mensch-Maschine-Interaktion“](https://github.com/dana-lng/Multimodale-Mensch-Maschine-Interaktion)
+
+---
+
+### 💻 Software-Engineering
+In diesem Modul werden Software-Entwicklungsprozesse behandelt – von der Planung über Design und Implementierung bis hin zu Tests.  
+Hier findest du Übungen, kleine Projekte und Beispielanwendungen.  
+
+📂 [Zum Ordner „Software-Engineering“](./Software-Engineering)
+
+---
+
+### 🗄️ Datenbanksysteme-2
+Dieses Modul befasst sich mit relationalen Datenbanken, SQL und dem praktischen Umgang mit Datenbankmanagementsystemen.  
+Hier dokumentiere ich meine Übungen, SQL-Skripte und Projektaufgaben.  
+
+📂 [Zum Ordner „Datenbanksysteme-2“](./Datenbanksysteme-2)
+
+---
